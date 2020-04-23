@@ -1,1 +1,1 @@
-This is 555 PWM Controller that is made to controller a 12v Fan
+This is 555 PWM Controller that is made to control a 12v Fan
